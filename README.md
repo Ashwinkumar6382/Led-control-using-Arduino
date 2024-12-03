@@ -59,8 +59,23 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
+![Screenshot 2024-12-03 075347](https://github.com/user-attachments/assets/051e351a-74db-489d-aa22-a070afd7d19f)
+
+
 ## PROGRAM
+
+![Screenshot 2024-12-03 075400](https://github.com/user-attachments/assets/9a03d248-81bf-40fd-9539-99b3921c1eb3)
+
 
 ## OUTPUT
 
+![Screenshot 2024-12-03 075412](https://github.com/user-attachments/assets/05476e65-2035-4d19-a07e-3fa2ba45452d)
+
+
+![Screenshot 2024-12-03 075425](https://github.com/user-attachments/assets/78d75ff8-be86-401a-b277-d0d5797ff5c8)
+
+
 ## RESULT
+
+Thus design and implementation of a system for LED control using an Arduino
+ microcontroller and a push button has been done and the output has been verified
